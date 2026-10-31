@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "kairos-price-watcher": {
+      "url": "https://qcmmdwkiowvooalugfhv.supabase.co/functions/v1/kairos-price-watcher-mcp"
+    }
+  }
+}
