@@ -1,0 +1,17 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "author": {
+    "name": "KAIROS AI Systems"
+  },
+  "description": "Produces a weekly digest of competitors' public prices and promotions from public sources only.",
+  "keywords": [
+    "kairos",
+    "price",
+    "small business",
+    "watcher"
+  ],
+  "license": "MIT",
+  "name": "kairos-price-watcher",
+  "repository": "https://github.com/baselam88/kairos-price-watcher-plugin",
+  "version": "0.1.0"
+}
